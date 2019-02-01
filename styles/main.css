@@ -115,7 +115,7 @@ h2, .bio, .icon {
 
 /* iPhone 6/7/8 */
 
-@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+@media only screen (max-device-width: 800px) and (orientation: portrait) {
 	h2 {
 		font-size: 14px;
 	}
