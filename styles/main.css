@@ -112,3 +112,21 @@ h2, .bio, .icon {
 		opacity: 1;
 	}
 }
+
+/* iPhone 6/7/8 */
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+	.bio {
+		font-size: 16px;
+		color: red;
+	}
+}
+
+/* iPhone X */
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+	.bio {
+		font-size: 16px;
+		color: blue;
+	}
+}
