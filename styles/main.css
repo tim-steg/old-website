@@ -113,8 +113,12 @@ h2, .bio, .icon {
 	}
 }
 
+.info {
+	font-size: 16px;
+}
+
 @media screen and (max-device-width: 812px) {
 	.info {
-		font-size: 10px;
+		font-size: 12px;
 	}
 }
