@@ -119,7 +119,9 @@ h2, .bio, .icon {
 
 @media screen and (max-device-width: 812px) {
 	.info {
-		background-color: black;
 		font-size: 16px;
+	}
+	body {
+		background-color: black;
 	}
 }
