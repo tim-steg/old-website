@@ -119,6 +119,6 @@ h2, .bio, .icon {
 
 @media screen and (max-device-width: 812px) {
 	.info {
-		font-size: 12px;
+		font-size: 16px;
 	}
 }
