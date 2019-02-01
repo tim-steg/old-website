@@ -1,0 +1,16 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: 'Assistant', sans-serif;
+	color: black;
+}
+
+body {
+	background: #ecf2f9;
+	width: 50%;
+	height: 50%;
+}
+
+h1, p {
+	text-align: center;
+}
