@@ -89,14 +89,14 @@ h2, .bio, .icon {
 	animation-name: blur;
 	animation-duration: 2s;
 	animation-fill-mode: forwards;
-	animation-delay: 3s;
+	animation-delay: 1s;
 }
 
 .tech {
 	animation-name: blur;
 	animation-duration: 2s;
 	animation-fill-mode: forwards;
-	animation-delay: 4s;
+	animation-delay: 1.5s;
 }
 
 @keyframes blur {
