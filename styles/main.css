@@ -96,7 +96,7 @@ h2, .bio, .icon {
 	animation-name: blur;
 	animation-duration: 4s;
 	animation-fill-mode: forwards;
-	animation-delay: 1.5s;
+	animation-delay: 1s;
 }
 
 @keyframes blur {
