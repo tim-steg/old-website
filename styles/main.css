@@ -94,9 +94,9 @@ h2, .bio, .icon {
 
 .tech {
 	animation-name: blur;
-	animation-duration: 4s;
+	animation-duration: 2s;
 	animation-fill-mode: forwards;
-	animation-delay: 1s;
+	animation-delay: 1.5s;
 }
 
 @keyframes blur {
